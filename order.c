@@ -39,8 +39,5 @@ int main(){
   ler_vetor(v,n);
   selection_sort(v,n);
   escrever_vetor(v,n);
-  double t;
-  t=9.4;
-  printf("%lf\n",++t);
   return 0;
 }
